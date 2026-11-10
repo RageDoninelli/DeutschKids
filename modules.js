@@ -15,11 +15,11 @@ window.VIVA_COURSE = [
  id:2,title:'Hallo, das bin ich',sub:'Hola, este soy yo',pages:'15–24',emoji:'👋',color:'#ffb4a2',
  goal:'Saludar, presentarte, preguntar nombres y decir cómo estás.',
  vocab:[['Hallo!','¡Hola!','👋'],['Guten Morgen!','¡Buenos días!','🌤️'],['Guten Tag!','¡Buen día!','☀️'],['Guten Abend!','¡Buenas tardes/noches!','🌆'],['Gute Nacht!','¡Buenas noches! (al dormir)','🌙'],['Tschüss!','¡Adiós! (informal)','👋'],['Auf Wiedersehen!','¡Hasta luego! (formal)','🚪'],['Wie heißt du?','¿Cómo te llamas?','❓'],['Ich heiße ...','Me llamo ...','🙋'],['Wer bist du?','¿Quién eres?','🪪'],['Wie geht’s?','¿Cómo estás?','💬'],['Sehr gut.','Muy bien.','😄'],['Es geht.','Más o menos.','😐'],['Danke, gut.','Bien, gracias.','😊']],
- phrases:[['Hallo! Ich heiße Lorenzo.','¡Hola! Me llamo Lorenzo.'],['Wie heißt du?','¿Cómo te llamas?'],['Wie geht’s? – Sehr gut, danke.','¿Cómo estás? – Muy bien, gracias.'],['Guten Tag! Auf Wiedersehen!','¡Buen día! ¡Hasta luego!']],
+ phrases:[['Hallo! Ich heiße Nuri.','¡Hola! Me llamo Nuri.'],['Wie heißt du?','¿Cómo te llamas?'],['Wie geht’s? – Sehr gut, danke.','¿Cómo estás? – Muy bien, gracias.'],['Guten Tag! Auf Wiedersehen!','¡Buen día! ¡Hasta luego!']],
  grammar:[['Pronombres','ich = yo; du = tú; er = él; sie = ella.'],['El verbo heißen','ich heiße; du heißt; er/sie heißt.'],['Saludo según contexto','Gute Nacht se usa típicamente al despedirse para dormir; Guten Abend al saludar de noche.']],
  teach:{five:'Marioneta que saluda: «Hallo! Ich heiße Nuri». El niño contesta con su nombre.',nine:'Rueda de presentaciones: cada alumno pregunta «Wie heißt du?» y «Wie geht’s?» a dos compañeros.'},
- micro:'Inicio una clase: «Guten Tag! Ich heiße Lorenzo. Wie heißt du? Wie geht’s?»',
- quiz:[['mc','¿Qué saludo usarías antes de dormir?',['Gute Nacht!','Guten Morgen!','Guten Tag!'],'Gute Nacht!','No es el saludo de llegada de noche.'],['mc','Elige la forma correcta: «Ich ___ Lorenzo».',['heiße','heißt','heißen'],'heiße','Para ich, la forma es heiße.'],['input','Escribe «¿Cómo te llamas?» en alemán.','Wie heißt du?','Incluye el signo ß.'],['order','Construye: «Me llamo Lorenzo».',['Lorenzo.','Ich','heiße'],'Ich heiße Lorenzo.','Verbo en segunda posición.']]
+ micro:'Inicio una clase: «Guten Tag! Ich heiße Nuri. Wie heißt du? Wie geht’s?»',
+ quiz:[['mc','¿Qué saludo usarías antes de dormir?',['Gute Nacht!','Guten Morgen!','Guten Tag!'],'Gute Nacht!','No es el saludo de llegada de noche.'],['mc','Elige la forma correcta: «Ich ___ Nuri».',['heiße','heißt','heißen'],'heiße','Para ich, la forma es heiße.'],['input','Escribe «¿Cómo te llamas?» en alemán.','Wie heißt du?','Incluye el signo ß.'],['order','Construye: «Me llamo Nuri».',['Nuri.','Ich','heiße'],'Ich heiße Nuri.','Verbo en segunda posición.']]
 },
 {
  id:3,title:'Das mache ich gern',sub:'Eso me gusta hacer',pages:'25–34',emoji:'🎨',color:'#ffe08a',

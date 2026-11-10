@@ -2,7 +2,7 @@
  "id":"./",
  "name":"V.I.V.A. Deutsch Studio A1",
  "short_name":"Deutsch Studio",
- "description":"Companion de alemán para preparación docente: vocabulario, pronunciación, ejercicios y repaso",
+ "description":"Companion personal con 4 bloques y temporizadores de 30/20/20/20 minutos para aprender alemán A1",
  "start_url":"./index.html",
  "scope":"./",
  "display":"standalone",

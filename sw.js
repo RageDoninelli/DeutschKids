@@ -1,6 +1,6 @@
 /* Updating content.js/modules.js in the same GitHub repository never requires reinstalling. */
-const CACHE='viva-deutsch-studio-a1-v1.1';
-const CORE=['./','./index.html','./modules.js','./app.js','./manifest.webmanifest','./icon-192.png','./icon-512.png'];
+const CACHE='viva-deutsch-studio-a1-v2.0';
+const CORE=['./','./index.html','./modules.js','./app.js','./study-data.js','./studio.js','./manifest.webmanifest','./icon-192.png','./icon-512.png'];
 self.addEventListener('install',event=>{
  event.waitUntil(caches.open(CACHE).then(c=>c.addAll(CORE)).then(()=>self.skipWaiting()));
 });

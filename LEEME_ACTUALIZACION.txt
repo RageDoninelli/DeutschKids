@@ -1,0 +1,60 @@
+V.I.V.A. DEUTSCH STUDIO A1 — RUTINA 90 · VERSION 2.0
+====================================================
+
+ESTA ES UNA ACTUALIZACIÓN DE TU MISMA APLICACIÓN, NO UNA APP DIFERENTE.
+
+CUATRO PESTAÑAS DE ESTUDIO
+1. DIE DEUTSCHPROFIS: 30 minutos. Libro principal, vocabulario, pronunciación y pruebas.
+2. COLLINS GRAMMATIK: 20 minutos. 12 grupos de reglas con 5 preguntas autocorregibles por unidad.
+3. BARRON'S SPIELPLATZ: 20 minutos. Juegos originales de traducción y ordenar frases.
+4. SPRECHEN & LEHRERTRAINING: 20 minutos. Diálogos, práctica oral y formación docente.
+
+CADA PESTAÑA TIENE SU CONTADOR INDEPENDIENTE:
+- INICIAR / PAUSAR / CONTINUAR / REINICIAR.
+- Cuenta desde 30, 20, 20 o 20 minutos hasta 0.
+- Puedes cambiar la meta entre 5 y 180 minutos con el campo "Meta".
+- El tiempo acumulado se guarda automáticamente cada segundo.
+- Al cambiar de pestaña o minimizar la aplicación, se pausa para no contar tiempo no estudiado.
+- Si entras a los ejercicios de Die Deutschprofis desde su pestaña, el tiempo de libro
+  continúa y aparece una barra pequeña superior con el tiempo restante.
+- El acumulado se reinicia cada día (según la fecha de tu dispositivo).
+- La pantalla Inicio y Mi plan muestran el resumen del día y las cuatro metas.
+
+PARA ACTUALIZAR TU APP YA INSTALADA EN GITHUB PAGES
+1. Guarda un respaldo de tu progreso en Ajustes > Exportar progreso (opcional pero recomendable).
+2. Extrae este ZIP en tu celular o computadora.
+3. Abre EL MISMO repositorio de GitHub donde tienes Deutsch Studio A1.
+4. Sube a la RAIZ del repositorio, sobrescribiendo los archivos existentes, estos archivos:
+   index.html
+   modules.js
+   app.js
+   sw.js
+   manifest.webmanifest
+5. Sube TAMBIÉN los archivos NUEVOS a esa misma raíz:
+   study-data.js
+   studio.js
+6. Si ya tienes los iconos, no hace falta subirlos de nuevo. Están en este ZIP
+   por si quieres instalar la aplicación desde cero.
+7. GitHub Pages actualizará el sitio cuando se publique el cambio. Abre la misma URL
+   desde Chrome y, si no ves la nueva versión, actualiza la página o ciérrala y vuelve a abrirla.
+8. Si usas la URL de siempre y el mismo navegador/perfil, tus datos existentes se conservan.
+   NO tienes que reinstalar la aplicación.
+
+PARA INSTALAR DESDE CERO
+- Sube los 9 archivos de la aplicación directamente a la raíz de un repositorio público.
+- Activa GitHub > Settings > Pages > Deploy from a branch > main > /(root).
+- Abre la URL de GitHub Pages en Chrome y elige "Instalar aplicación" o
+  "Agregar a pantalla de inicio" según tu navegador.
+
+NOTAS IMPORTANTES
+- La app no necesita cuenta ni servidor de datos. Guarda avances SOLO en ese navegador.
+- Para cambiar de dispositivo, exporta/importa tu JSON en Ajustes; la versión 2 incluye
+  los datos de las nuevas pestañas y sus tiempos.
+- Los ejercicios son originales basados en los temas de los libros.
+- NO se distribuyen las páginas, imágenes o audios protegidos de las editoriales.
+- Reproduce la voz alemana instalada en el celular, que puede diferir del audio editorial.
+- El reconocimiento por micrófono es opcional y depende del navegador/permisos.
+- Los temporizadores cuentan solo mientras la pestaña activa está a la vista.
+- Si abandonas la app inesperadamente, los últimos segundos pueden no recuperarse.
+
+V.I.V.A. Academy · Deutsch Studio · Preparación personal A1 para enero 2027.
