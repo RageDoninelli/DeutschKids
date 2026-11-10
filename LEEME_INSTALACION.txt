@@ -1,0 +1,43 @@
+V.I.V.A. DEUTSCH STUDIO A1 — COMPANION PERSONAL
+==============================================
+
+¿QUÉ CONTIENE?
+- 12 lecciones ordenadas como Die Deutschprofis A1 (referencias de páginas).
+- Vocabulario con botones para escuchar alemán usando las voces del teléfono.
+- Frases de ejemplo, explicaciones gramaticales y ejercicios interactivos originales.
+- Práctica con audio, selección múltiple, escritura y ordenar palabras.
+- Tarjetas de repaso con intervalos, récord por unidad y objetivos diarios.
+- Guiones breves para ensayar clases de 5–8 y 9–12 años.
+- Sprint intensivo de 8 semanas y temporizador de concentración.
+- Exportación/importación de progreso en formato JSON.
+- PWA instalable con soporte sin conexión para el contenido principal.
+
+INSTALAR EN GITHUB PAGES (DESDE CELULAR)
+1. Crea un repositorio NUEVO, por ejemplo: viva-deutsch-studio.
+2. Elige «Add file» > «Upload files» y sube LOS SIETE ARCHIVOS
+   del paquete a la RAÍZ, SIN CARPETAS:
+   index.html, app.js, modules.js, sw.js, manifest.webmanifest,
+   icon-192.png y icon-512.png.
+3. Ve a Settings > Pages > Deploy from a branch > main > /(root) > Save.
+4. Abre https://TU-USUARIO.github.io/viva-deutsch-studio/
+5. En Chrome Android: menú ⋮ > Instalar aplicación / Agregar a pantalla principal.
+   En Safari iPhone: Compartir > Añadir a pantalla de inicio.
+
+PARA ACTUALIZAR SIN REINSTALAR
+- Conserva el mismo repositorio y la misma URL.
+- Para agregar o cambiar ejercicios/unidades, sustituye modules.js.
+- Para cambiar funciones o diseño, sustituye app.js y/o index.html.
+- Recarga la página cuando se publique la actualización.
+- Tu progreso en el mismo navegador normalmente permanece guardado.
+- Antes de borrar datos/reinstalar otro navegador, exporta «Progreso JSON»
+  desde Ajustes y luego impórtalo en el navegador nuevo.
+
+NOTAS
+- Si abres index.html como archivo local, puede verse, pero la instalación
+  PWA y la caché offline requieren una dirección HTTPS o localhost.
+- La voz alemana depende del motor TTS del celular; no incluye voces descargadas.
+- El reconocimiento del micrófono es opcional y puede fallar en algunos navegadores.
+- Los audios y las imágenes del libro no están incorporados: accede al material
+  editorial original desde tu libro y desde el sitio oficial de Klett.
+- La meta de enero es preparación firme para las unidades iniciales y vista
+  global del A1; la fluidez docente requiere práctica oral continua.
